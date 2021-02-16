@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-02-16 00:08-0500\n"
-"PO-Revision-Date: 2021-02-16 17:49\n"
+"PO-Revision-Date: 2021-02-16 23:49\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -1128,7 +1128,7 @@ msgstr "永远忽略"
 
 #: spyder/plugins/completion/kite/widgets/install.py:73
 msgid "Now Spyder can use Kite to provide better code completions for key packages in the scientific Python Ecosystem. Install Kite for a better editor experience in Spyder. <br><br>Kite is free to use but is not open source. <a href=\"{kite_url}\">Learn more about Kite </a>"
-msgstr ""
+msgstr "现在 Spyder 可使用 Kite 来为 Python 生态系统中的关键软件包提供更好的代码补全功能。 请安装 Kite 以在 Spyder 中获得更好的编辑器体验。 <br><br>Kite 可免费使用但并不开源。 <a href=\"{kite_url}\">了解 Kite 的更多信息</a>"
 
 #: spyder/plugins/completion/kite/widgets/install.py:179
 msgid "Downloading"
@@ -4064,7 +4064,7 @@ msgstr "目录{}不可写，如果您需要创建IPython控制台，请让它可
 
 #: spyder/plugins/ipythonconsole/plugin.py:157
 msgid "Press <b>Q</b> to exit pager"
-msgstr ""
+msgstr "按 <b>Q</b> 退出分页器"
 
 #: spyder/plugins/ipythonconsole/plugin.py:515
 msgid "New console (default settings)"
@@ -6377,7 +6377,7 @@ msgstr "实例："
 
 #: spyder/utils/syntaxhighlighters.py:75
 msgid "Magic:"
-msgstr ""
+msgstr "魔法:"
 
 #: spyder/widgets/about.py:151 spyder/widgets/dependencies.py:94
 msgid "Copy to clipboard"
