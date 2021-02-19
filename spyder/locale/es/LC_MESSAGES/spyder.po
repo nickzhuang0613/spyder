@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-02-16 00:08-0500\n"
-"PO-Revision-Date: 2021-02-19 16:14\n"
+"PO-Revision-Date: 2021-02-19 16:25\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -4096,7 +4096,7 @@ msgstr "El directorio {} no tiene permisos de escritura, lo cual es requerido pa
 
 #: spyder/plugins/ipythonconsole/plugin.py:157
 msgid "Press <b>Q</b> to exit pager"
-msgstr ""
+msgstr "Presione <b>Q</b> para salir del paginador"
 
 #: spyder/plugins/ipythonconsole/plugin.py:515
 msgid "New console (default settings)"
